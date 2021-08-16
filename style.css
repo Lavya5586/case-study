@@ -1,0 +1,18 @@
+body {
+    font-family: 'Style Script', cursive;
+    background: #c0350b;
+}
+
+.text_images_and_results {
+    background: #1ef1ce;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.bob3 {
+    background: white;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
